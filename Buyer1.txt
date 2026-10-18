@@ -1,19 +1,8 @@
-titleStr=<b><color=#7DD3FC>AESG TEAM</color></b>
-
-strContent=<b><color=#FFD166>FILE MOD HOÀN THIỆN</color></b>
-<b><color=#FFD166>BỞI TEAM AESG</color></b>
-
-<color=#E2E8F0>Bản Mod By @Yengzz</color>
-<color=#E2E8F0>Fix Reset By @Zeg36</color>
-
-<b><color=#7DD3FC>THÔNG TIN BUYER</color></b>
-<color=#E2E8F0>Telegram : ...</color>
-<color=#E2E8F0>Phone : ...</color>
-
-<color=#86EFAC>Gợi Ý : Nhấn X Đóng Popup</color>
+titleStr=<b><color=#FFD45A>AESG</color> <color=#59C7FF>TEAM</color></b>
+strContent=<size=18><b><color=#F5F7FF>FILE MOD HOÀN THIỆN BỞI TEAM AESG</color></b></size>\n<size=18><color=#7EEA9A>Bản Mod By @Yengzz</color></size>\n<size=18><color=#75BBFF>Fix Reset By @Zeg36</color></size>\n<size=19><b><color=#FFD466>THÔNG TIN BUYER</color></b></size>\n<size=16><color=#E4EAF8>Telegram: Chưa cập nhật  •  Phone: Ẩn</color></size>\n<size=15><color=#D8E1FF>AESG-B001  •  <i>Nhấn X đóng Popup</i></color></size>
 hasCancelBtn=true
 confirmStr=THUÊ MOD
 cancelStr=CHECK BUYER
 onConfirm=https://github.com/powchoido/AESG
-onCancel=https://github.com/powchoido/AESG/blob/main/CheckBuyer1.txt
+onCancel=https://github.com/powchoido/AESG/blob/main/Buyer1.txt
 isShowCloseBtn=true
