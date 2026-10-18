@@ -1,1 +1,19 @@
+titleStr=<b><color=#7DD3FC>AESG TEAM</color></b>
 
+strContent=<b><color=#FFD166>FILE MOD HOÀN THIỆN</color></b>
+<b><color=#FFD166>BỞI TEAM AESG</color></b>
+
+<color=#E2E8F0>Bản Mod By @Yengzz</color>
+<color=#E2E8F0>Fix Reset By @Zeg36</color>
+
+<b><color=#7DD3FC>THÔNG TIN BUYER</color></b>
+<color=#E2E8F0>Telegram : ...</color>
+<color=#E2E8F0>Phone : ...</color>
+
+<color=#86EFAC>Gợi Ý : Nhấn X Đóng Popup</color>
+hasCancelBtn=true
+confirmStr=THUÊ MOD
+cancelStr=CHECK BUYER
+onConfirm=https://github.com/powchoido/AESG
+onCancel=https://github.com/powchoido/AESG/blob/main/CheckBuyer1.txt
+isShowCloseBtn=true
