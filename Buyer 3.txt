@@ -1,1 +1,8 @@
-
+titleStr=<b><color=#FFD45A>AESG</color> <color=#59C7FF>TEAM</color></b>
+strContent=<size=19><b><color=#F5F7FF>FILE MOD HOÀN THIỆN BỞI TEAM AESG</color></b></size>\n<size=19><color=#7EEA9A>Bản Mod By @Yengzz</color></size>\n<size=19><color=#75BBFF>Fix Reset By @Zeg36</color></size>\n<size=20><b><color=#FFD466>THÔNG TIN BUYER</color></b></size>\n<size=17><color=#FFD466>Họ Tên:</color> <color=#F5F7FF>Đặng Lâm Vũ</color></size>\n<size=17><color=#FFD466>File Mod:</color> <color=#F5F7FF>Billow Vụ Ảnh Lang Hồn</color></size>\n<size=17><color=#FF656B>Telegram:</color> <color=#F5F7FF>@caube0801</color>  <color=#FFD5D5>•</color>  <color=#FF656B>Phone:</color> <color=#F5F7FF>03*****058</color></size>\n<size=16><color=#D8E1FF>AESG-B001  •  <i>Nhấn X đóng Popup</i></color></size>
+hasCancelBtn=true
+confirmStr=THUÊ MOD
+cancelStr=CHECK BUYER
+onConfirm=https://t.me/powchoido
+onCancel=https://drive.google.com/file/d/1NiaKycrb_h-291BEGh9GEisWqJZMs4aq/view?usp=drivesdk
+isShowCloseBtn=true
